@@ -1,0 +1,10 @@
+##ignore this file##
+/Assembly-CSharp.csproj
+/.vs
+/.vsconfig
+/Library
+/Logs
+/My project (1).sln
+/UserSettings
+/obj
+/Packages
